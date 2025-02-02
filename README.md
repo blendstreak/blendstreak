@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhay!
 
-<!--
-**blendstreak/blendstreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Python developer passionate about building applications with Django, Flask, and Pygame. Whether it's web development, game development, or automation, I love solving problems with code.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages:** Python, JavaScript, HTML, CSS  
+- **Frameworks & Libraries:** Django, Flask, Pygame  
+- **Databases:** PostgreSQL, SQLite, MySQL  
+- **Other Tools:** Git, Docker, REST APIs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I Do
+- 🌐 **Web Development:** Building robust and scalable web applications with Django & Flask.  
+- 🎮 **Game Development:** Creating interactive games and simulations with Pygame.  
+- 🔄 **Automation & Scripting:** Writing scripts to automate everyday tasks and processes.  
+
+## 📫 Get in Touch
+- LinkedIn: [www.linkedin.com/in/abhaysira](#)
+- Portfolio: [https://myportfolio-alpha-bay.vercel.app/](#)
+
+Looking forward to collaborating and building amazing projects together! 🚀
