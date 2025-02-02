@@ -7,7 +7,7 @@ I'm a Python developer passionate about building applications with Django, Flask
 - **Languages:** Python, JavaScript, HTML, CSS  
 - **Frameworks & Libraries:** Django, Flask, Pygame  
 - **Databases:** PostgreSQL, SQLite, MySQL  
-- **Other Tools:** Git, Docker, REST APIs  
+- **Other Tools:** Git, Docker, REST APIs, Blender
 
 ## 📌 What I Do
 - 🌐 **Web Development:** Building robust and scalable web applications with Django & Flask.  
