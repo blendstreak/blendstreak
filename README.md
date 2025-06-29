@@ -15,7 +15,7 @@ I'm a Python developer passionate about building applications with Django, Flask
 - 🔄 **Automation & Scripting:** Writing scripts to automate everyday tasks and processes.  
 
 ## 📫 Get in Touch
-- LinkedIn: [www.linkedin.com/in/abhaysira](#)
-- Portfolio: [https://myportfolio-alpha-bay.vercel.app/](#)
+- [LinkedIn](www.linkedin.com/in/abhaysira)
+- [Portfolio](https://myportfolio-alpha-bay.vercel.app/)
 
 Looking forward to collaborating and building amazing projects together! 🚀
